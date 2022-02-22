@@ -1,6 +1,3 @@
-# Classroom-Assignment
-
-
 #include <stdio.h>
 #include <time.h> // contains prototype for function time.
 
